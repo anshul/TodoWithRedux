@@ -1,0 +1,40 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	font:normal 15px/17px arial;
+}
+
+ul, li{
+	list-style: none;
+}
+
+.wrapper{
+	margin: 20px;
+}
+
+.header_text{
+	color: #333;
+	margin-bottom: 10px;
+}
+
+.list-item{
+padding: 10px;
+cursor: pointer;
+}
+
+.redTask{
+	color: red;
+}
+
+.greenTask{
+	color: green;
+	text-decoration: line-through;
+}
+
+.left_section{
+	width: 60%;
+}
